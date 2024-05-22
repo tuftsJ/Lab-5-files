@@ -1,0 +1,33 @@
+class list of customers
+
+class name: CustomerList
+
+container for customers
+number of customers in the list
+is the container empty
+
+behaviors or actions
+add a customer
+remove a customer
+get customer information
+change customer information
+
+-------------------------------
+
+email: string
+firstName: string
+id: int
+lastName: string
+phone : string
+
+Email {get; set;} string
+FirstName {get; set;} string
+Id {get; set; } : int
+LastName {get; set; } string
+Phone {get; set; } string
+
+Customer()
+Customer(int id, string firstName, string lastName, string email, string phone)
+ToString(): string
+
+--------------------------------
