@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeff\\Documents\\Git Repositories\\lab5_core-tuftsJ\\practice\\Customer\\Customer.csproj",
+      "projectUniqueName": "C:\\Users\\Jeff\\Documents\\Git Repositories\\Lab-5-files\\lab 5 files\\Customer\\Customer.csproj",
       "projectName": "Customer",
-      "projectPath": "C:\\Users\\Jeff\\Documents\\Git Repositories\\lab5_core-tuftsJ\\practice\\Customer\\Customer.csproj",
+      "projectPath": "C:\\Users\\Jeff\\Documents\\Git Repositories\\Lab-5-files\\lab 5 files\\Customer\\Customer.csproj",
       "packagesPath": "C:\\Users\\Jeff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeff\\Documents\\Git Repositories\\lab5_core-tuftsJ\\practice\\Customer\\obj\\",
+      "outputPath": "C:\\Users\\Jeff\\Documents\\Git Repositories\\Lab-5-files\\lab 5 files\\Customer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
